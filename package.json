@@ -1,0 +1,35 @@
+{
+  "nativescript": {
+    "id": "org.nativescript.FacturacionApp",
+    "tns-android": {
+      "version": "6.1.2"
+    },
+    "tns-ios": {
+      "version": "6.1.0"
+    }
+  },
+  "description": "Facturacion Electronica App",
+  "license": "MIT",
+  "repository": "<fill-your-repository-here>",
+  "dependencies": {
+    "eslint": "^6.6.0",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-plugin-import": "^2.18.2",
+    "eslint-plugin-vue": "^5.2.3",
+    "nativescript-theme-core": "~1.0.6",
+    "nativescript-vue": "^2.4.0",
+    "tns-core-modules": "~6.1.0",
+    "vuex": "^3.1.1"
+  },
+  "devDependencies": {
+    "@babel/core": "~7.1.0",
+    "@babel/preset-env": "~7.1.0",
+    "babel-loader": "~8.0.0",
+    "nativescript-dev-webpack": "~1.2.0",
+    "nativescript-vue-template-compiler": "~2.4.0",
+    "node-sass": "^4.7.1",
+    "vue-loader": "~15.4.0"
+  },
+  "gitHead": "1964ea9e8ca1a0518e0d6370781eedcf6c23db42",
+  "readme": "NativeScript Application"
+}
